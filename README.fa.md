@@ -37,8 +37,8 @@ API، Zone ID، نام رکورد، لینک ساب) را ذخیره می‌کن
 <div dir="ltr">
 
 ```bash
-git clone https://github.com/<your-username>/cloudflare-cdn-toolkit.git
-cd cloudflare-cdn-toolkit
+git clone https://github.com/MohammadHosseinkargar/cloudflare-ip-scanner.git
+cd cloudflare-ip-scanner
 ```
 
 </div>
