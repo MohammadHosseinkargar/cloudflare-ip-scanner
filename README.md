@@ -28,8 +28,8 @@ Download from https://www.python.org/downloads/ (tick "Add Python to PATH").
 Click the green **Code** button on GitHub → **Download ZIP**, then unzip.
 Or with git:
 ```bash
-git clone https://github.com/<your-username>/cloudflare-cdn-toolkit.git
-cd cloudflare-cdn-toolkit
+git clone https://github.com/MohammadHosseinkargar/cloudflare-ip-scanner.git
+cd cloudflare-ip-scanner
 ```
 
 ### 3. Install the requirements
